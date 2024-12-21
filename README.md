@@ -1,4 +1,6 @@
-#SYNCHRONOUS-UP-COUNTER
+
+### SYNCHRONOUS-UP-COUNTER
+
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
@@ -39,9 +41,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 Developed by:Reshma R
-Register no:24900406
+Register No:24900406
 ```
 module exp11(out,clk,rst);
 input clk,rst;
